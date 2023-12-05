@@ -196,7 +196,7 @@ li {
 }
 
 .evlis-btn {
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 	font-size: 13px;
 	font-weight: 700;
 	padding: 8px 18px;
@@ -209,7 +209,7 @@ li {
 
 .evlis-btn:hover {
 	color: #fff;
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 }
 
 .site-heading {
@@ -324,7 +324,7 @@ nav.navbar .nav-item .nav-link {
 }
 
 nav.navbar .nav-item .nav-link.active {
-	color: #3ba770 !important
+	color: #388cfc !important
 }
 
 nav.fixed-top {
@@ -373,7 +373,7 @@ nav.fixed-top .nav-item .nav-link:before {
 }
 
 .navbar-nav.get_tickets a {
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 	font-size: 13px;
 	font-weight: 700;
 	padding: 13px 18px;
@@ -713,7 +713,7 @@ ul li ul {
 }
 
 .attend-text h3:hover {
-	color: #3ba770
+	color: #388cfc
 }
 
 .attend-right {
@@ -846,7 +846,7 @@ ul li ul {
 }
 
 .venue-date-1 {
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 }
 
 .venue-date-2 {
@@ -867,7 +867,7 @@ ul li ul {
 }
 
 .venue-text h3:hover {
-	color: #3ba770
+	color: #388cfc
 }
 
 .venue-box {
@@ -965,7 +965,7 @@ ul li ul {
 	border: medium none;
 	padding: 8px 18px;
 	line-height: 25px;
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 	font-weight: 700;
 	color: #fff;
 	border-radius: 3px;
@@ -977,7 +977,7 @@ ul li ul {
 	font-size: 18px;
 	text-align: center;
 	letter-spacing: 5px;
-	border: 1px solid #3ba770;
+	border: 1px solid #388cfc;
 	padding: 8px 18px;
 	line-height: 25px;
 	font-weight: 700;
@@ -997,7 +997,7 @@ ul li ul {
 	display: block;
 	font-size: 13px;
 	letter-spacing: 3px;
-	border-top: 1px solid #3ba770
+	border-top: 1px solid #388cfc
 }
 
 .single-schedule-item {
@@ -1035,7 +1035,7 @@ ul li ul {
 }
 
 .schedule-details h3:hover {
-	color: #3ba770
+	color: #388cfc
 }
 
 
@@ -1105,7 +1105,7 @@ ul li ul {
 }
 
 .speakers-info h3:hover {
-	color: #3ba770
+	color: #388cfc
 }
 
 .speakers-info p {
@@ -1191,7 +1191,7 @@ ul li ul {
 
 .registration-box form button:hover {
 	background: #fff none repeat scroll 0 0;
-	color: #3ba770
+	color: #388cfc
 }
 
 .nice-select {
@@ -1399,7 +1399,7 @@ ul li ul {
 }
 
 .date-bg-1 {
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 }
 
 .date-bg-2 {
@@ -1429,7 +1429,7 @@ ul li ul {
 }
 
 .blog-text h3:hover {
-	color: #3ba770
+	color: #388cfc
 }
 
 
@@ -1457,7 +1457,7 @@ ul li ul {
 }
 
 .contact-box form p label span {
-	color: #3ba770;
+	color: #388cfc;
 }
 
 .contact-box form p input {
@@ -1478,7 +1478,7 @@ ul li ul {
 }
 
 .submit-form button {
-	background: #3ba770 none repeat scroll 0 0;
+	background: #388cfc none repeat scroll 0 0;
 	font-size: 13px;
 	font-weight: 700;
 	padding: 8px 18px;
@@ -1495,7 +1495,7 @@ ul li ul {
 }
 
 .submit-form button:hover {
-	background: #3ba770 none repeat scroll 0 0
+	background: #388cfc none repeat scroll 0 0
 }
 
 
